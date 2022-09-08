@@ -1,5 +1,5 @@
 function setup() {
-    createCnavas(360, 240)
+    createCanvas(360, 240)
     pixelDensity(1)
     loadPixels();
     for (var x = 0; x < width; x++) {
